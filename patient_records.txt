@@ -1,0 +1,14 @@
+
+Specialty : General Practice (OPD)
+Assigned Ward : General
+Urgency Level : Level 1(Normal)
+----------------------------------------------------------------------
+Base Consultation Fee : 1500.00
+Emergency Surcharge : 0.00
+Ward Stay Cost (1 Days) : 3000.00
+Gross Total Bill : 4500.00
+Age Subsidy Discount : -675.00
+------------------------------------------------------------------------
+Final Payable Amount : 3825.00
+Estimated Waiting Time : 450 mins
+============================================================
