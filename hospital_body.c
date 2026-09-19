@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "hospital_system.h"
+
 int menu()
 {
     printf("\tWelcome to Smart Hospital & Resource Allocation System\n\nHow can I help you? Enter the choice number.\n");

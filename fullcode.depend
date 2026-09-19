@@ -1,6 +1,9 @@
 # depslib dependency file v1.0
-1789815677 source:c:\users\lenovo\documents\fullcode\main.c
+1789830664 source:c:\users\lenovo\documents\fullcode\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	"hospital_system.h"
+
+1789828183 c:\users\lenovo\documents\fullcode\hospital_system.h
 
