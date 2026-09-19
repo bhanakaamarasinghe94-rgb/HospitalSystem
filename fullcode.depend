@@ -7,3 +7,9 @@
 
 1789828183 c:\users\lenovo\documents\fullcode\hospital_system.h
 
+1789831117 source:c:\users\lenovo\documents\fullcode\hospital_body.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hospital_system.h"
+

@@ -64,10 +64,10 @@ int i=0;
             case 4 : j=5;
             break;
         }
-        for(i=0;x<j;i++)
+        for(x=0;x<j;i++)
         {
-            if (beds[id-1][i]==0)
-        {beds[id-1][i] = 1;
+            if (beds[id-1][x]==0)
+        {beds[id-1][x] = 1;
         break;}
         }
     }
